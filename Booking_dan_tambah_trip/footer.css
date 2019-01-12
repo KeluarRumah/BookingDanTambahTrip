@@ -1,0 +1,112 @@
+<style>
+* {
+box-sizing: border-box;
+}
+  body{
+  margin:0;
+  }   
+  .footer{
+    margin-top: 3%;
+ 
+ height: 300px;
+   background-color: #0e1b21;
+ }.image {
+  width: 150px;
+  height: 100px;
+  background-color: #0054a6;
+}
+.kf {
+ position: absolute;
+ text-align: left;
+ 
+ margin-left: 14.5%;
+}
+.ft {
+ width: 110px;
+  height: 21px;
+  font-family: Constantia;
+  font-size: 22px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 1.9;
+ letter-spacing: 0.2px;
+ text-align: right;
+ color: #ffffff;
+ margin-left: 58%;
+ margin-top: 2.5%;
+}
+.trfeature {
+ width: 25px;
+ height: 18px;
+ font-family: Constantia;
+ font-size: 14px;
+ line-height: 0.8;
+ letter-spacing: 0.9px;
+ text-align: center;
+ margin-left: 28%;
+ color: #7c8992;
+}
+
+.fu{
+ width: 110px;
+  height: 21px;
+  font-family: Constantia;
+  font-size: 22px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 4;
+  letter-spacing: 0.9px;
+  text-align: right;
+  color: #ffffff;
+ margin-left: 73%;
+}
+.fuf {
+ width: 110px;
+ height: 40px;
+ font-family: Constantia;
+ font-size: 14px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 0.97;
+ letter-spacing: 0.6px;
+ text-align: right;
+ margin-left: 9%;
+ color: #7c8992;
+}
+
+
+.cfk {
+ width: 70px;
+ height: 50px;
+ font-family: CooperStd;
+ font-size: 14px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+line-height: 6;
+ letter-spacing: 1.8px;
+ text-align: left;
+ color: #ffffff;
+ margin-left: 18%;
+}
+div.absolute {
+ position: absolute;
+ top: 80px;
+ right: 0;
+ left: 0;
+ width: 200px;
+ height: 100px;
+ border: 3px;
+ color: #7c8992;
+ margin-left: 60%;
+}
+.fb{
+ margin-top:10%;
+
+
+}
+ 
+</style> 

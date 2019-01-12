@@ -1,0 +1,36 @@
+  <style>      
+        * {
+  box-sizing: border-box;
+}
+  body{
+  margin:0;
+  }       
+  .Booking{
+  
+  width: 1250px;
+  height: 844px;
+  background-color: #eff4f4;
+  margin-top:39px;
+  margin-left:116px;
+}.Next{
+  position: relative;
+  background:#ffffff;
+  border: 1px solid currentColor;
+  font-size: 1.1rem;
+  color: #367fb2;
+  margin: 3rem 0;
+  letter-spacing: 1.4 px;
+  padding: 0.75rem 3rem;
+  cursor: pointer;
+  -webkit-transition: background-color 0.28s ease, color 0.28s ease, box-shadow 0.28s ease;
+  transition: background-color 0.28s ease, color 0.28s ease;
+  overflow: hidden; 
+  margin-top : 189px;
+  margin-right :-800px;
+  border:0;
+}.Next:hover {
+  color:#ffffff;
+  background-color: #367fb2;
+}
+
+    </style>
